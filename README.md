@@ -1,1 +1,1 @@
-# Python_Lab7
+# Java_Lab7
